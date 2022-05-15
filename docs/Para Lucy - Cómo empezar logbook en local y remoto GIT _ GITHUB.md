@@ -39,3 +39,12 @@ git pull origin
 
 5.- Comprueba que todo este cargado en el repositorio remoto.
 Con eso deberías poder sincronizar tus repositorios y haber podido subir sin problemas los archivos locales.
+
+
+=============
+Sintaxis para enlazar cualquier imagen local 
+// https://www.digitalocean.com/community/tutorials/markdown-markdown-images
+![ alt text for screen readers](/path/to/image. png "Text to show on mouseover") 
+
+https://learnxinyminutes.com/docs/es-es/markdown-es/
+Hay que corregir alguna errata, perono está mal.

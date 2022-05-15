@@ -2,6 +2,7 @@
 ### Luces en el firmamento
 > Implementación del proceso identificador de cuerpos brillantes en el cielo.
 
+<!-- Estilos para texto plano -->
 En la tarea Entrega tu código hay un descriptor de un nuevo asunto.
 
 ### Introducción:
@@ -37,9 +38,14 @@ Además:
 
 ### Referencias:
 Astronomy Picture of the Day
-[Astronomy Picture of the Day](https://apod.nasa.gov/apod/astropix.html)
+[![Astronomy Picture of the Day](https://apod.nasa.gov/apod/astropix.html)
 How to Identify that Light in the Sky
-[How to Identify that Light in the Sky](http://www.leagueoflostcauses.com/)
+[How to Identify that Light in the Sky](https://www.leagueoflostcauses.com/)
+
+![astronomy101_hk_960.jpg](images/astronomy101_hk_960.jpg)
+
+[<img alt="alt_text" width="40px" src="images/astronomy101_hk_960.jpg" />](images/astronomy101_hk_960.jpg)
+
 
 
 ### Traducciones:
