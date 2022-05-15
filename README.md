@@ -39,14 +39,19 @@ Además:
 ### Referencias:
 Astronomy Picture of the Day
 [![Astronomy Picture of the Day](https://apod.nasa.gov/apod/astropix.html)
-How to Identify that Light in the Sky
+
+How to Identify that Light in the Sky (leagueoflostcauses.com)
 [How to Identify that Light in the Sky](https://www.leagueoflostcauses.com/)
 
+### Imágenes:
+Tamaño original:
 ![astronomy101_hk_960.jpg](images/astronomy101_hk_960.jpg)
 
-[<img alt="alt_text" width="40px" src="images/astronomy101_hk_960.jpg" />](images/astronomy101_hk_960.jpg)
+Tamaño fijado a 100px:
+[<img alt="alt_text" width="100px" src="images/astronomy101_hk_960.jpg" />](images/astronomy101_hk_960.jpg)
 
-
+Tamaño escalado a 25%:
+[<img alt="alt_text" style="zoom:25%" src="images/astronomy101_hk_960.jpg" />](images/astronomy101_hk_960.jpg)
 
 ### Traducciones:
 [http://www.cosmonoticias.org/como-identificar-esa-luz-en-el-cielo/](http://www.cosmonoticias.org/como-identificar-esa-luz-en-el-cielo/)
@@ -54,7 +59,5 @@ How to Identify that Light in the Sky
 
 Durante el ejercicio se sugiere escuchar el disco "Sgt. Peppers's" de The Beattles 1967, que trae la canción "Lucy in the sky with diamons" escrita por John Lennon, y nº1 en 2003 de las 500 mejores canciones de la historia según la revista "Rolling Stone". Fue injustamente prohibida en esos días porque se pensaba que hacía apología de la droga LSD.
 [(https://www.eloriente.net/home/2013/07/08/historia-detras-de-la-cancion-lucy-in-the-sky-with-diamonds-de-the-beatles/)](https://www.eloriente.net/home/2013/07/08/historia-detras-de-la-cancion-lucy-in-the-sky-with-diamonds-de-the-beatles/)
-
-
 
 
